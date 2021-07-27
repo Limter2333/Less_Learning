@@ -1,2 +1,3 @@
 # Less_Learning
-My personal learning code
+My personal learning code.
+NO BB THX.
